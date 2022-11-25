@@ -1,0 +1,8 @@
+D:\C# Project\Multiples\Multiples\bin\Debug\Multiples.exe.config
+D:\C# Project\Multiples\Multiples\bin\Debug\Multiples.exe
+D:\C# Project\Multiples\Multiples\bin\Debug\Multiples.pdb
+D:\C# Project\Multiples\Multiples\obj\Debug\Multiples.csproj.AssemblyReference.cache
+D:\C# Project\Multiples\Multiples\obj\Debug\Multiples.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\Multiples\Multiples\obj\Debug\Multiples.csproj.CoreCompileInputs.cache
+D:\C# Project\Multiples\Multiples\obj\Debug\Multiples.exe
+D:\C# Project\Multiples\Multiples\obj\Debug\Multiples.pdb
